@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pthread-win32", "pthread-win32.vcproj", "{241550BA-B1B8-4FAC-9EC7-1E11A547149F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pthread-win32-dll", "pthread-win32-dll.vcproj", "{9DA6AAD3-CB69-488A-8F9A-9D7305D8FBF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241550BA-B1B8-4FAC-9EC7-1E11A547149F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{241550BA-B1B8-4FAC-9EC7-1E11A547149F}.Debug|Win32.Build.0 = Debug|Win32
+		{241550BA-B1B8-4FAC-9EC7-1E11A547149F}.Release|Win32.ActiveCfg = Release|Win32
+		{241550BA-B1B8-4FAC-9EC7-1E11A547149F}.Release|Win32.Build.0 = Release|Win32
+		{9DA6AAD3-CB69-488A-8F9A-9D7305D8FBF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9DA6AAD3-CB69-488A-8F9A-9D7305D8FBF7}.Debug|Win32.Build.0 = Debug|Win32
+		{9DA6AAD3-CB69-488A-8F9A-9D7305D8FBF7}.Release|Win32.ActiveCfg = Release|Win32
+		{9DA6AAD3-CB69-488A-8F9A-9D7305D8FBF7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
